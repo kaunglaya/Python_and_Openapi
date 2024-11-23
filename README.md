@@ -13,3 +13,7 @@ https://youtube.com/live/Hng8m3g-tL4
 https://www.youtube.com/watch?v=Zr6XMfQUv08
 ## 11/16下午影片
 https://www.youtube.com/watch?v=r7Kj8dpsXjk
+
+## 11/23 上午影片
+https://www.youtube.com/watch?v=gMKGq6KZLy0
+## 11/23 下午影片
