@@ -22,7 +22,7 @@ allData:list[dict] = tools.get_aqi(excel_name="aqi.xlsx")
 
 #selected_item:list[dict] = []
 #for item in allData:
-#    if item['sitename'] == add_selectbox:
+#   if item['sitename'] == add_selectbox:
 #       selected_item.append(item)
        
 
