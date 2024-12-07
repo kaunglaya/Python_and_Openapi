@@ -25,3 +25,4 @@ https://www.youtube.com/watch?v=1Ey3LwjQMV4
 https://www.youtube.com/watch?v=2YQcn9VzSqg
 
 ## 12/07 上午影片
+https://www.youtube.com/watch?v=zenppplLRpo
