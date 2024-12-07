@@ -23,3 +23,5 @@ https://www.youtube.com/watch?v=_afMhN9vF8k
 https://www.youtube.com/watch?v=1Ey3LwjQMV4
 ## 11/30 下午影片
 https://www.youtube.com/watch?v=2YQcn9VzSqg
+
+## 12/07 上午影片
