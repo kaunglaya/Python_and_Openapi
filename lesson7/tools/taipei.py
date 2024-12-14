@@ -19,4 +19,4 @@ def get_youbikes()->list[dict]:
         file = StringIO(r.text)
         reader = DictReader(file)
         list_reader:list[dict] = list(reader)
-        print(list_reader)
+        return list_reader
