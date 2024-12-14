@@ -28,3 +28,8 @@ https://www.youtube.com/watch?v=2YQcn9VzSqg
 https://www.youtube.com/watch?v=zenppplLRpo
 ## 12/07 下午影片
 https://www.youtube.com/watch?v=i_DCX1_4GFM
+
+## 12/14 上午影片
+
+## 12/14 下午影片
+https://www.youtube.com/watch?v=ufgAaWSD0Ig
