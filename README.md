@@ -30,6 +30,6 @@ https://www.youtube.com/watch?v=zenppplLRpo
 https://www.youtube.com/watch?v=i_DCX1_4GFM
 
 ## 12/14 上午影片
-
+https://youtube.com/live/k49W16ca5E0
 ## 12/14 下午影片
 https://www.youtube.com/watch?v=ufgAaWSD0Ig
