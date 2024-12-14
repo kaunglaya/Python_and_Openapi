@@ -11,5 +11,5 @@ except Exception as error:
     vote(error)
     st.write("try it again")
     st.stop()
-else:
-    st.write(youbikes_data)
+
+st.table(youbikes_data)
