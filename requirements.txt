@@ -2,3 +2,5 @@ streamlit #streamlit run XXXXX.py
 openpyxl
 panadas
 #pip install -r requirements.txt
+#pip install numpy 
+#pip install tf-nightly (tensorflow)
