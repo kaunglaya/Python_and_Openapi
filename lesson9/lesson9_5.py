@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_clickablse_images import clickable_images
+from streamlit_clickable_images import clickable_images
 import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
